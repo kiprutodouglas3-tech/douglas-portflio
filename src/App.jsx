@@ -1,7 +1,7 @@
 import { MessageCircle } from "lucide-react";
 
 
-import Navbar from "./components/NavBar";
+import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import About from "./components/About";
 import Services from "./components/Services";
